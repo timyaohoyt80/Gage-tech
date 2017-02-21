@@ -1,0 +1,123 @@
+body {
+		font-family: 'Open Sans', sans-serif;
+}
+
+/*Top Nav*/
+.topNav {
+			background-color: #000000;		
+			color:#6b6b6b；	
+}
+
+.logo {
+		margin-top: 10px;
+}
+
+.topNavRight ul li{
+					list-style: none;					
+					float: left;
+					margin: 27px 0px 19px 67px;
+					font-size: 18px;
+}
+
+.topNavRight ul li a{
+						text-decoration: none;
+						color: white;
+}
+
+/*Top Nav End*/
+
+
+/*hero: Upper section*/
+.hero {
+	font-size: 96px;
+		color:#f13124;	
+	margin: 70px 125px 56px -50px;
+}
+
+.hero ul li {
+	list-style: none;
+	margin:0px 0px -48px 0px;
+}
+
+.hero1 {
+		font-size: 30px;
+		color:#666666
+}
+
+.G2 {
+	background-color:#156a87; 
+}
+.Group2 {
+			background-color:#156a87;
+			background-image: url("./Group2.jpg"); 
+			width: 1180px;
+			height: 540px;			
+			color:#ffffff;
+			font-size:30px;			
+			
+}
+.G2p {
+		margin:170px 220px 137px 180px;
+}
+
+/*Footer*/
+footer{
+		background-color:#f13124;
+ }
+#join {
+		font-size: 15.02px;
+		color:#ffffff;
+		margin-top:49px;
+}
+#want {
+		font-size: 14px;
+		color:black;
+}
+
+#wantExp{
+			color: #ffffff;
+}
+#career {
+		font-size: 14px;
+			color: #ffffff;
+}
+
+.social ul li{
+				list-style: none;
+				float: left;
+				margin: 60px 0px 0px 9px;
+}
+
+#locationin {
+			font-size: 15.02px;
+			color:#ffffff;			
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.Location { 
+			margin-top:59px;
+			margin-left: 0px;
+			margin-bottom: 46px;
+
+ }
+.Location ul li {
+			list-style: none;
+}
+
+.footerwhite{
+				color:#ffffff;
+				margin-top: 59px;
+}
+
+.footerwhite ul li {
+						list-style: none;
+						margin-bottom: 18px;						
+}
+
+.footerwhite ul li a{
+						text-decoration: none;
+						color: #ffffff;
+}
